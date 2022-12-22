@@ -7,3 +7,7 @@ http://live.adultiptv.net/lesbian.m3u8
 #EXTINF:-1,Movie Central by TVPlayer(ES) tvg-id="" tvg-name="Movie Central" tvg-language="Spanish" tvg-logo="https://media-delivery-cdn.alchimie-services.net/image/v1/mediadb-product-filetype/978687/COVER.jpg" group-title="Movie",Movie Central by TVPlayer
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-mctves-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Explore by TVPlayer (ES) tvg-id="" tvg-name="Explore by TVPlayer" tvg-language="Spanish" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/allchannels/TYPE100010001.png" group-title="Documentary",Explore by TVPlayer
+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-explorees-xiaomi/playlist.m3u8
