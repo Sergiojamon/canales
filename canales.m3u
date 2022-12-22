@@ -4,6 +4,10 @@
 
 http://live.adultiptv.net/lesbian.m3u8
 
+#EXTINF:-1,MyTime Movie Network (ES) tvg-id="" tvg-name="MyTime Movie Network" tvg-language="Spanish" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="XXX",MyTime Movie Network
+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+
 #EXTINF:-1,Movie Central by TVPlayer(ES) tvg-id="" tvg-name="Movie Central" tvg-language="Spanish" tvg-logo="https://media-delivery-cdn.alchimie-services.net/image/v1/mediadb-product-filetype/978687/COVER.jpg" group-title="Movie",Movie Central by TVPlayer
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-mctves-xiaomi/playlist.m3u8
