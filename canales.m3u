@@ -11,3 +11,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-mctves-xiaomi/p
 #EXTINF:-1,Explore by TVPlayer (ES) tvg-id="" tvg-name="Explore by TVPlayer" tvg-language="Spanish" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/allchannels/TYPE100010001.png" group-title="Documentary",Explore by TVPlayer
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-explorees-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Fite TV (EU) tvg-id="" tvg-name="Fite TV" tvg-language="English" tvg-logo="https://mma.prnewswire.com/media/653750/FiteTV__Logo.jpg" group-title="Sport",Fite TV
+
+https://answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playli
