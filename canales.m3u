@@ -19,3 +19,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-explorees-xiaom
 #EXTINF:-1,Fite TV (EU) tvg-id="" tvg-name="Fite TV" tvg-language="English" tvg-logo="https://mma.prnewswire.com/media/653750/FiteTV__Logo.jpg" group-title="Sport",Fite TV
 
 https://answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,PowerNation TV Espanol (EU) tvg-id="" tvg-name="PowerNation TV" tvg-language="Spanish" tvg-logo="https://m.media-amazon.com/images/I/715RJNEFoCL.jpg" group-title="Motor",PowerNation TV
+
+https://rtmtv-powernationenespanol-1-eu.xiaomi.wurl.tv/playlist.m3u8
