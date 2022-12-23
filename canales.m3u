@@ -4,6 +4,26 @@
 
 http://live.adultiptv.net/lesbian.m3u8
 
+#EXTINF:-1,Rakuten Action Movies (ES) tvg-id="" tvg-name="Rakuten Action Movies" tvg-language="Spanish" tvg-logo="https://blog.phonehouse.es/wp-content/uploads/2022/04/peliculas-de-accion-rakuten-tv-1621956288.png" group-title="Movie",Rakuten Action Movies
+
+https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Comedy Movies (ES) tvg-id="" tvg-name="Rakuten Comedy Movies" tvg-language="Spanish" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ie/tvs/smart-tv/samsung-tv-plus/all-channels/Rcle.png" group-title="Movie",Rakuten Comedy Movies
+
+https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Romance (ES) tvg-id="" tvg-name="Rakuten Romance Movies" tvg-language="Spanish" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenromantico.png" group-title="Movie",Rakuten Romance Movies
+
+https://rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Spotlight (ES)
+
+https://rakuten-spotlight-2-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Top Free (ES)
+
+https://rakuten-topfree-2-es.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1,MyTime Movie Network (ES) tvg-id="" tvg-name="MyTime Movie Network" tvg-language="Spanish" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Movie",MyTime Movie Network
 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
