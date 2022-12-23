@@ -8,6 +8,10 @@ http://live.adultiptv.net/lesbian.m3u8
 
 https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 
+#EXTINF:-1,Rakuten Cine Español (ES) tvg-id="" tvg-name="Rakuten Action Movies" tvg-language="Spanish" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenesp.png" group-title="Movie",Rakuten Cine Español
+
+https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1,Rakuten Thriller (ES) tvg-id="" tvg-name="Rakuten Thrillers" tvg-language="Spanish" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenthrillers.png" group-title="Movie",Rakuten Thrillers
 
 https://rakuten-thriller-1-es.xiaomi.wurl.tv/playlist.m3u8
@@ -24,7 +28,7 @@ https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 
 https://rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Rakuten Spotlight (ES) tvg-id="" tvg-name="Rakuten Spotlight" tvg-language="Spanish" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenspotlight.png" group-title="Movie",Rakuten Spotlight
+#EXTINF:-1,Rakuten Spotlight (ES) tvg-id="" tvg-name="Rakuten Spotlight" tvg-language="Spanish" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenspotlight.png" group-title="Show",Rakuten Spotlight
 
 https://rakuten-spotlight-2-es.xiaomi.wurl.tv/playlist.m3u8
 
